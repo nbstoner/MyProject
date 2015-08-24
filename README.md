@@ -1,4 +1,0 @@
-MyProject
-=========
-
-first project
